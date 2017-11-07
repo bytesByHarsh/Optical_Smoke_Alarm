@@ -15,7 +15,7 @@ A project on optical smoke alarm
 * 1 Capacitor 100 microfarad, 25 volts.
 
 ## Description
-
+Optical smoke alarm uses MOC 7811 which is an *optocoupler*.The sensor designed for this device is based on the principle of scattering of *infrared rays*.The light coming from the light source passes through the air being tested and reaches the photosensor. In case of smoke, the received light intensity will be reduced by absorption due to smoke. It can be easily observed while simulating the circuit. This change in light intensity again causes change in the resistance and hence results in the voltage drop. As this happens, the transistor T1 (as shown in the schematic) stops working and transistor T2 starts working and starts off the buzzer. Sensitivity of the sensor can be set by changing the variable resistence of 4.7kΩ.
 
 ## Schematic of the whole circuit
 
