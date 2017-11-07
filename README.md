@@ -17,13 +17,13 @@ A project on optical smoke alarm
 
 ## Schematic of the whole circuit
 
-![Analog Circuit](Schematics/Sch1.png)
+![Analog Circuit](Schematic/Sch1.png)
 
 ## Schematic of circuit in NI Multisim
 
-![Circuit in NI Multisim](Schematics/Sch2.png)
+![Circuit in NI Multisim](Schematic/Sch2.PNG)
 
 
 ## Schematic of PCB Design
 
-![PCB Design](Schematics/Sch3.png)
+![PCB Design](Schematic/Sch3.PNG)
