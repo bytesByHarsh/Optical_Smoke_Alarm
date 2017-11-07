@@ -2,7 +2,7 @@
 A project on optical smoke alarm 
 **An Optical Smoke Detector is a device that senses smoke, typically as an indicator of fire.**
 
-# Components Used
+## Components Used
 * 10K potentiometer.
 * IC MOC7811.
 * IC LM358.
@@ -13,3 +13,17 @@ A project on optical smoke alarm
 * 1 Capacitor 100 microfarad, 25 volts.
 
 ## Description
+
+
+## Schematic of the whole circuit
+
+![Analog Circuit](Schematics/Sch1.png)
+
+## Schematic of circuit in NI Multisim
+
+![Circuit in NI Multisim](Schematics/Sch2.png)
+
+
+## Schematic of PCB Design
+
+![PCB Design](Schematics/Sch3.png)
