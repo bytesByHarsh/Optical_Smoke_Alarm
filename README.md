@@ -1,5 +1,7 @@
 # Optical_Smoke_Alarm
 A project on optical smoke alarm 
+
+
 **An Optical Smoke Detector is a device that senses smoke, typically as an indicator of fire.**
 
 ## Components Used
